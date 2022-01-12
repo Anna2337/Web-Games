@@ -1,0 +1,20 @@
+body {
+	background-color: rgb(95, 93, 93);
+	color: rgb(241, 215, 215);
+}
+
+.cardsDiv {
+	display: flex;
+	flex-wrap: wrap;
+	width: 500px;
+}
+
+img {
+	margin: 5px;
+	width: 100px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.messageDiv {
+	font-size: 20px;
+}
